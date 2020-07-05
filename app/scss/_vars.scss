@@ -1,0 +1,11 @@
+$header-color: white;
+$main-color: #333333;
+$line1: rgba(255, 255, 255, 0.3);
+$line2:#FED233;
+$button-color: #FED233;
+$shadow:  rgba(0, 0, 0, 0.05);
+
+@mixin landing-max-width {
+    max-width: 1920px;
+    margin: 0 auto;
+}
